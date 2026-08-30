@@ -1,2 +1,3 @@
-# Jaynes-Cummings-model
-The neural network to derive the the Einstein's coefficients using 2-level system of quantum optics.
+# Jaynes-Cummings Model
+
+PINN-based solver for the Jaynes-Cummings model, building toward deriving Einstein coefficients.
