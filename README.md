@@ -1,3 +1,1 @@
-# Jaynes-Cummings Model
-
-PINN-based solver for the Jaynes-Cummings model, building toward deriving Einstein coefficients.
+Deriving the Einstein's coefficients form the Jaynes-Cummings Model
